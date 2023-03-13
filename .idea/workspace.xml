@@ -1,14 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="286f5ebe-a916-4481-9dc0-e2c3164d449d" name="Changes" comment="" />
+    <list default="true" id="286f5ebe-a916-4481-9dc0-e2c3164d449d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Opdrachten_Alina_Berns_13_03_2023.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/AdapterPatternDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/AdvancedMediaPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/AudioPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/MediaAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/MediaPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/Mp4Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/VlcPlayer.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Mx1CHnCphztaL8ukMq2HQuuR6U" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
